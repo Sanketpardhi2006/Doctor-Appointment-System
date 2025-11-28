@@ -47,6 +47,12 @@ This system allows users to book appointments, doctors to manage their schedule,
 - **password :** bcrpt
 ---
 
+
+this project based on the mern.
+
+thank you 
+
+
 ## 🔹 Setup Instructions
 
 1. Clone the repo:
@@ -57,9 +63,6 @@ cd Doctor-Appointment-System
 
 
 
-this project based on the mern.
-
-thank you 
 
 
             
